@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Logs/
+ios_build/
 
 # Visual Studio cache directory
 .vs/
